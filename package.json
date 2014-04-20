@@ -1,0 +1,13 @@
+{
+  "name": "olio",
+  "version": "0.0.1",
+  "description": "error tracking service",
+  "main": "index.js",
+  "author": "Daniel Charbonneau",
+  "license": "ISC",
+  "dependencies": {
+    "verror": "^1.4.0",
+    "node-redis": "^0.1.7",
+    "chokidar": "^0.8.2"
+  }
+}
